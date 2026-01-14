@@ -1,0 +1,334 @@
+Год,Язык
+1804,Коды операций для узоров на ткацком станке
+1837,Коды операций для аналитической машины
+1879,Begriffsschrift
+1943—1945,Планкалкюль
+1943—1946,Система команд ENIAC
+1946,Графическая система фон Неймана и Голдстайна (нотация)
+1946,Краткий код ENIAC
+1947,Язык ассемблера ARC
+1948,Система нотации Карри
+1948,Схема кодирования CPC
+1949,C-10
+1949,Схема кодирования Сибера (концепция)
+1949,Укороченный код
+1950,Краткий код
+1950,Язык ассемблера Биркбека
+1951,ALGAE
+1951,Stanislaus (нотация)
+1951,Безымянная система кодирования Бёма
+1951,Генератор сортировки-слияния
+1951,Промежуточный язык программирования
+1951,Региональный язык ассемблера
+1951,Символический язык ассемблера OMNIBAC
+1951,Скобочные выражения
+1951,Суперплан
+1951,Язык ассемблера Whirlwind
+1951,Язык ассемблера Рочестера
+1952,A-0
+1952,COMPOOL
+1952,Автокод
+1952,Генератор редакторов
+1952,Операторное программирование
+1953,READ/PRINT
+1953,Быстрый кодировщик
+1954,ARITH-MATIC
+1954,IPL I(концепция)
+1954,MATH-MATIC
+1954,MATRIX MATH
+1954,Автокод Mark I
+1954,Машинный язык компьютера «Киев» — язык высокого уровня (концепция)
+1954,Система Лейнинга и Цирлера
+1954—1955,"Фортран""0""(концепция)"
+1955,BACAIC
+1955,FLOW-MATIC
+1955,PACT I
+1955,PRINT
+1955,Адресный язык программирования— впервые введена непрямая адресация высших рангов (Pointers) и сложные структуры данных: деревообразные форматы.
+1955—1956,Internal Translator (IT)
+1955—1956,Sequentielle Formelübersetzung
+1956—1958,Лисп(концепция)
+1957,COMIT(концепция)
+1957,COMTRAN
+1957,Фортран «I»(реализация)
+1957—1958,UNICODE
+1958,IPL II(реализация)
+1958,IPL V
+1958,Алгол 58
+1958,Фортран II
+1959,FACT
+1959,JOVIAL
+1959,TRAC(концепция)
+1959,КОБОЛ(концепция)
+1959,Лисп (реализация)
+1960,Алгол 60
+1960,КОБОЛ 61(реализация)
+1961,COMIT(реализация)
+1962,MAD
+1962,АПЛ(концепция)
+1962,Симула(концепция)
+1962,Снобол
+1962,Фортран IV
+1963,CPL
+1963,JOSS I
+1963,Алгол 68(концепция)
+1963,Снобол3
+1964,COWSEL
+1964,IBM RPG
+1964,MIMIC
+1964,Mark-IV
+1964,P′′
+1964,TRAC(реализация)
+1964,Бейсик
+1964,ПЛ/1(концепция)
+1964?,IITRAN
+1965,TELCOMP
+1966,CORAL66
+1966,ISWIMконцепция
+1966,JOSS II
+1966,Алгол W
+1966,Фортран 66
+1967,BCPL
+1967,MUMPS
+1967,XPL
+1967,АПЛ(реализация)
+1967,Симула 67(реализация)
+1967,Снобол4
+1968,DIBOL-8
+1968,FORTH(концепция)
+1968,MAPPER
+1968,POP-1
+1968,Алгол 68
+1968,Лого
+1968,РЕФАЛ(реализация)
+1969,PPL
+1969,TUTOR
+1969,Би
+1969,ПЛ/1(реализация)
+1969,Сетл
+1970,POP-2
+1970,Паскаль
+1970?,FORTH(реализация)
+1971,Sue
+1972,INTERCAL
+1972,PL/M
+1972,Smalltalk
+1972,Пролог
+1972,Си
+1973,COMAL
+1973,LIS
+1973,ML
+1974,BASIC FOUR
+1974,GRASS
+1975,ABC
+1975,Altair BASIC
+1975,CS-4
+1975,Scheme
+1975,Модула
+1976,Ratfor
+1976,S
+1976,Smalltalk-76
+1976,Speakeasy-3
+1977,Blue
+1977,Bourne Shell(sh)
+1977,FP
+1977,Green
+1977,IDL
+1977,Icon(концепция)
+1977,Red
+1977,Standard MUMPS
+1977,Yellow
+1978,SQL
+1978,VISICALC
+1978?,MATLAB
+1978?,SMALL
+1979,AWK
+1979,Icon(реализация)
+1979,REXX
+1979,Vulcan dBase-II
+1979,Модула-2
+1980,FORTRAN77
+1980,Си с классами
+1980—1981,CBASIC
+1982 ?,Speakeasy-IV
+1983,C++
+1983,GW-BASIC
+1983,Objective-C
+1983,True BASIC
+1983,Ада
+1983 ?,ABAP
+1984,Clipper
+1984,Common Lisp
+1984,RPL
+1984,Redcode
+1984,Standard ML
+1984 ?,Korn shell(ksh)
+1985,Object Pascal
+1985,Paradox
+1985,PostScript
+1985,QuickBASIC
+1986,Clarion
+1986,CorVision
+1986,GFA BASIC
+1986,Informix-4GL
+1986,LabVIEW
+1986,PROMAL
+1986,Миранда
+1986,Эйфель
+1987,Erlang
+1987,HyperTalk
+1987,Mathematica
+1987,Perl
+1987,Self(концепция)
+1987,Turbo Basic
+1987,Оберон
+1988,A+
+1988,Object REXX
+1988,Octave
+1988,SPARK
+1988,STOS BASIC
+1988,Tcl
+1989,PowerBASIC
+1989,Turbo Pascal OOP
+1989,Модула-3
+1990,AMOS BASIC
+1990,Haskell
+1990,J
+1990,Object Oberon
+1990,Z Shell(zsh)
+1991,Eulisp
+1991,Fortran90
+1991,Oz
+1991,Python
+1991,Q
+1991,Visual Basic
+1991,Оберон-2
+1992,Borland Pascal
+1992,Dylan
+1993,AppleScript
+1993,Brainfuck
+1993,Euphoria
+1993,FALSE
+1993,K
+1993,Lua
+1993,NewtonScript
+1993,Revolution Transcript
+1993,WinDev
+1993,ZPL
+1993 ?,Self(реализация)
+1994,ANS Forth
+1994,ANSI Common Lisp
+1994,Pike(µLPC)
+1995,Borland Delphi
+1995,ColdFusion (CFML)
+1995,Java
+1995,JavaScript
+1995,LiveScript
+1995,PHP
+1995,Ruby
+1996,Curl
+1996,Lasso
+1996,NetRexx
+1996,Perl Data Language(PDL)
+1996,R
+1996,ДРАКОН
+1997,Active Oberon
+1997,E
+1997,ECMAScript
+1997,F-Script
+1997,Fortran'95
+1997,ISLISP
+1997,Pico
+1997,REBOL
+1997,Squeak Smalltalk
+1997,Tea
+1997,Компонентный Паскаль
+1998,DASL(BOS)
+1998,Open Source Erlang
+1998,Pikt
+1998,Standard C++
+1999,DASL(AUS)
+1999,Game Maker Language(GML)
+1999,WebDev
+1999,XSLT
+2000,C#
+2000,D
+2000,Ferite
+2000,Join Java
+2000,Joy
+2000,XL
+2001,AspectJ
+2001,Visual Basic .NET
+2002,Gosu
+2002,Io
+2002,Скретч
+2003,C++03
+2003,Factor
+2003,Nemerle
+2003,Scala
+2003,Squirrel
+2004,Boo
+2004,Fortran2003
+2004,FreeBASIC
+2004,Groovy
+2004,Orc
+2004,Oxygene(бывший Chrome)
+2004,Subtext
+2004,ThinBasic
+2004,WinDev Mobile
+2005,F#
+2005,Rage Assembler
+2005,Seed7
+2006,BASIC-256
+2006,Kite
+2006,Links
+2006,Windows PowerShell
+2007,Agda
+2007,Apex
+2007,Clojure
+2007,Fantom
+2007,LOLCODE
+2007,Vala
+2008,Disciple
+2008,Fortress
+2008,Nim
+2008,PCASTL
+2008,RapidRage
+2008,Seccia
+2009,CoffeeScript
+2009,Go
+2009,Idris
+2010,Chapel
+2010,RPG Open Access
+2010,Rust
+2011,C++11
+2011,Ceylon
+2011,Dart
+2011,Elm
+2011,Kotlin
+2011,Opa
+2011,Red
+2012,Ada 2012
+2012,Elixir
+2012,Julia
+2012,TypeScript
+2014,C++14
+2014,Crystal
+2014,Hack
+2014,Swift
+2015,Raku
+2015,Zig
+2016,Ring
+2017,Ballerina
+2017,C++17
+2018,Dart2
+2018,Fortran 2018
+2019,Bosque
+2020,C++20
+2021,Microsoft Power Fx
+2022,Carbon
+2023,Fortran 2023
+2023,Mojo
+2024,Bend
+2024,C++23
+2024,Gleam
